@@ -1,16 +1,15 @@
-# qrab
+# TaxiApp
 
-A new Flutter project.
+This is one of my project when started to learn Flutter.
 
-## Getting Started
+## About Project
+- Login and Register an account by Firebase database.
+- Validate, authencation account.
+- Use Google Map Flutter to show the map near by my address in Home Screen.
 
-This project is a starting point for a Flutter application.
+## Some app's pictures:
 
-A few resources to get you started if this is your first Flutter project:
+![LoginPage](https://user-images.githubusercontent.com/45615713/121375041-9c3ea680-c96a-11eb-800c-557bf3770f74.jpg)
+![RegisterPage](https://user-images.githubusercontent.com/45615713/121375303-d4de8000-c96a-11eb-9d5a-33a345b78881.jpg)
+![HomePage](https://user-images.githubusercontent.com/45615713/121375243-cabc8180-c96a-11eb-899d-5acb96ba5377.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
