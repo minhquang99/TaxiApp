@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "878659615910",
+    "project_id": "qrab-7cc3e",
+    "storage_bucket": "qrab-7cc3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878659615910:android:2263593d42ae52dc9a8867",
+        "android_client_info": {
+          "package_name": "com.example.qrab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878659615910-7jisvel5afj334g9j2l6sp5lr98i5u31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XO75LQba3Sl5cpe-kqxsjg5PHcytCaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878659615910-7jisvel5afj334g9j2l6sp5lr98i5u31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878659615910-u04me329irv9skaik2a81eaj3vj4jbvg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
